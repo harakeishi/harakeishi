@@ -1,7 +1,8 @@
 # My Qiita 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/harachan/posts.svg)](http://qiita.com/harachan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/harachan/contributions.svg)](http://qiita.com/harachan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/harachan/followers.svg)](http://qiita.com/harachan)
 
-                
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harakeishi&count_private=true&show_icons=true&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harakeishi&layout=compact&theme=monokai)                
 <!--
 **harakeishi/harakeishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
