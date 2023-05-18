@@ -1,6 +1,8 @@
 # My Qiita 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/harachan/posts.svg)](http://qiita.com/harachan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/harachan/contributions.svg)](http://qiita.com/harachan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/harachan/followers.svg)](http://qiita.com/harachan)
-
+[![Contributions](https://badgen.org/img/qiita/harachan/contributions?style=flat)](https://qiita.com/harachan)[![Followers](https://badgen.org/img/qiita/harachan/followers?style=flat)](https://qiita.com/harachan)[![Articles](https://badgen.org/img/qiita/harachan/articles?style=flat)](https://qiita.com/harachan)
+# My Zenn
+[![Likes](https://badgen.org/img/zenn/harachan/likes?style=flat)](https://zenn.dev/harachan)[![Followers](https://badgen.org/img/zenn/harachan/followers?style=flat)](https://zenn.dev/harachan)[![Articles](https://badgen.org/img/zenn/harachan/articles?style=flat)](https://zenn.dev/harachan)[![Books](https://badgen.org/img/zenn/harachan/books?style=flat)](https://zenn.dev/harachan?tab=books)[![Scraps](https://badgen.org/img/zenn/harachan/scraps?style=flat)](https://zenn.dev/harachan?tab=scraps)
+# My GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harakeishi&count_private=true&show_icons=true&theme=monokai)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harakeishi&layout=compact&theme=monokai)                
 <!--
